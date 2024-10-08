@@ -1,0 +1,51 @@
+h1 .first{
+    color: brown;
+}
+
+.design{
+    color: green;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+.product-container{
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 40px;
+    width: 50%;
+    border-radius: 6px;
+    box-shadow: deepskyblue;
+    font-size: 30px;
+}
+
+.product-title{
+    color:red;
+}
+.product-name{
+    font-weight: bold;
+}
+
+.product-price{
+    color: green
+}
+.above-threshold{
+    background-color:#ffe6e6;
+}
+
+.header{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+.footer{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: tomato;
+    color: white;
+    text-align: center;
+}
